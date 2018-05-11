@@ -65,7 +65,7 @@ $(function() {
     }
     var NebPay = require("nebpay");
 	var nebPay = new NebPay();
-	var dappAddress = "n1opqoeNn68P5QauaBYRpL39RTpRwr9zPXb";
+	var dappAddress = "n1wN5KEZ2TFZXCYqypyKtKxVBxJgo15rYdJ";
     app.prototype = {
 
         init: function() {
